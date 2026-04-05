@@ -1,56 +1,61 @@
 # 👋 Hi, I'm Vikas
 
-🚀 **Android Developer | 5+ Years Experience**
-📱 Building high-performance, scalable Android apps
+🚀 **Senior Android Developer | 5+ Years Experience**
+📱 Building scalable, high-performance Android apps using modern architecture
 
 ---
 
 ## 💡 About Me
 
-* 📱 Developed apps in **media, e-commerce & live streaming domains**
-* ⚡ Improved app performance & reduced startup time significantly
-* 🔄 Expert in **Coroutines, Flow & concurrency handling**
-* 💾 Hands-on with **LRU caching, disk cache & memory optimization**
-* 🎥 Experience in **HLS/DASH video streaming optimization**
+* 📱 Experience across **media, e-commerce & live streaming apps**
+* ⚡ Improved **app startup time & performance** through optimization
+* 🔄 Strong expertise in **Coroutines, Flow & concurrency handling**
+* 💾 Hands-on with **caching strategies (LRU, disk, memory)**
+* 🎥 Optimized **video streaming using HLS & DASH**
+* 🧠 Focused on writing **clean, scalable & testable code**
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages:**
-Kotlin | Java
+Kotlin • Java
 
 **Architecture:**
-MVVM | Clean Architecture | Modularization
+MVVM • Clean Architecture • Modularization
 
 **Tools & Libraries:**
-Jetpack Compose | Coroutines | Flow | Retrofit | OkHttp | Hilt
+Jetpack Compose • Coroutines • Flow • Retrofit • OkHttp • Hilt • Paging 3
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 MyJetpackApp
+### 🎬 CineSearch (Flagship Project)
 
-📱 Built using Jetpack Compose
+🚀 Modern Android movie browsing app
 
-* Modern UI with reusable components
-* Follows MVVM + Clean Architecture
+* Built with **Jetpack Compose, Clean Architecture & Paging 3**
+* Implemented **infinite scrolling & debounced search**
+* Used **StateFlow for UI state management**
+* Designed scalable & production-ready architecture
 
----
-
-### 🔹 AndroidGitPractice
-
-🧠 Covers real-world Git workflows
-
-* Branching strategies
-* Merge conflict handling
+👉 [View Project](https://github.com/vikas9489/CineSearch-Android)
 
 ---
 
-### 🔥 Upcoming / Flagship Project
+### 📱 MyJetpackApp
 
-🚀 MovieApp with MVVM best practices
+* Built using Jetpack Compose
+* Reusable UI components
+* MVVM + Clean Architecture
+
+---
+
+### 🧠 AndroidGitPractice
+
+* Real-world Git workflows
+* Branching strategies & merge handling
 
 ---
 
@@ -62,8 +67,8 @@ Jetpack Compose | Coroutines | Flow | Retrofit | OkHttp | Hilt
 
 ## 📫 Connect with Me
 
-* 💼 LinkedIn: (Add this ASAP)
-* 📧 Email: (Optional)
+* 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
