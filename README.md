@@ -59,12 +59,6 @@ Jetpack Compose • Coroutines • Flow • Retrofit • OkHttp • Hilt • Pag
 
 ---
 
-## 📊 GitHub Stats
-
-![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikas9489\&show_icons=true\&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
