@@ -38,8 +38,6 @@ Coroutines | Flow | Retrofit | OkHttp | Hilt | Dagger
 
 * Git workflows and version control practice
 
-👉 (Add 1 strong real-world project here later)
-
 ---
 
 ## 📊 GitHub Stats
