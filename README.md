@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Vikas
 
-<!--
-**vikas9489/vikas9489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Android Developer | 5+ Years Experience**
+📱 Kotlin | Jetpack Compose | MVVM | Clean Architecture | FLutter
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+* 📱 Building scalable Android apps (media, e-commerce, streaming)
+* ⚡ Optimized app startup time & performance
+* 🔄 Strong in Coroutines, Flow & concurrency
+* 💾 Experience with caching (LRU, Disk, Memory)
+* 🎥 Worked on video streaming (HLS/DASH)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**
+Kotlin | Java
+
+**Android:**
+Jetpack Compose | XML | MVVM | Clean Architecture | Dart
+
+**Libraries & Tools:**
+Coroutines | Flow | Retrofit | OkHttp | Hilt | Dagger
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **MyJetpackApp**
+
+* Modern Android UI using Jetpack Compose
+
+🔹 **AndroidGitPractice**
+
+* Git workflows and version control practice
+
+👉 (Add 1 strong real-world project here later)
+
+---
+
+## 📊 GitHub Stats
+
+![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikas9489\&show_icons=true\&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn: www.linkedin.com/in/vikas-dhiman9489
+* 📧 Email: dhimanv209@gmail.com
+
+---
+
+⭐ *“Code. Build. Improve. Repeat.”*
