@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Vikas
 
 🚀 **Android Developer | 5+ Years Experience**
-📱 Kotlin | Jetpack Compose | MVVM | Clean Architecture | FLutter
+📱 Building high-performance, scalable Android apps
 
 ---
 
 ## 💡 About Me
 
-* 📱 Building scalable Android apps (media, e-commerce, streaming)
-* ⚡ Optimized app startup time & performance
-* 🔄 Strong in Coroutines, Flow & concurrency
-* 💾 Experience with caching (LRU, Disk, Memory)
-* 🎥 Worked on video streaming (HLS/DASH)
+* 📱 Developed apps in **media, e-commerce & live streaming domains**
+* ⚡ Improved app performance & reduced startup time significantly
+* 🔄 Expert in **Coroutines, Flow & concurrency handling**
+* 💾 Hands-on with **LRU caching, disk cache & memory optimization**
+* 🎥 Experience in **HLS/DASH video streaming optimization**
 
 ---
 
@@ -20,23 +20,37 @@
 **Languages:**
 Kotlin | Java
 
-**Android:**
-Jetpack Compose | XML | MVVM | Clean Architecture | Dart
+**Architecture:**
+MVVM | Clean Architecture | Modularization
 
-**Libraries & Tools:**
-Coroutines | Flow | Retrofit | OkHttp | Hilt | Dagger
+**Tools & Libraries:**
+Jetpack Compose | Coroutines | Flow | Retrofit | OkHttp | Hilt
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **MyJetpackApp**
+### 🔹 MyJetpackApp
 
-* Modern Android UI using Jetpack Compose
+📱 Built using Jetpack Compose
 
-🔹 **AndroidGitPractice**
+* Modern UI with reusable components
+* Follows MVVM + Clean Architecture
 
-* Git workflows and version control practice
+---
+
+### 🔹 AndroidGitPractice
+
+🧠 Covers real-world Git workflows
+
+* Branching strategies
+* Merge conflict handling
+
+---
+
+### 🔥 Upcoming / Flagship Project
+
+🚀 MovieApp with MVVM best practices
 
 ---
 
@@ -48,9 +62,9 @@ Coroutines | Flow | Retrofit | OkHttp | Hilt | Dagger
 
 ## 📫 Connect with Me
 
-* 💼 LinkedIn: www.linkedin.com/in/vikas-dhiman9489
-* 📧 Email: dhimanv209@gmail.com
+* 💼 LinkedIn: (Add this ASAP)
+* 📧 Email: (Optional)
 
 ---
 
-⭐ *“Code. Build. Improve. Repeat.”*
+⭐ *“Consistency beats talent when talent doesn’t show up.”*
