@@ -61,8 +61,8 @@ Jetpack Compose • Coroutines • Flow • Retrofit • OkHttp • Hilt • Pag
 
 ## 📫 Connect with Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: www.linkedin.com/in/vikas-dhiman9489
+* 📧 Email: [dhimanv209@gmail.com](mailto:your-email@example.com)
 
 ---
 
